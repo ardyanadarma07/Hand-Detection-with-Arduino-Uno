@@ -1,6 +1,6 @@
 int lampu[] = {13, 12, 11, 10, 9}; 
 int jml_lampu = 5;
-int segmentPins[7] = {8,7,6,5,4,3,2}; 
+int segmentPins[7] = {8,7,6,5,4,3,2}; //pin a,b,c,d,e,f,g
 
 int digit[6][7] = {
   {1, 1, 1, 1, 1, 1, 0},  //0
