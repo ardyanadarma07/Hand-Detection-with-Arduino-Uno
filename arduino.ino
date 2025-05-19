@@ -11,8 +11,6 @@ int digit[6][7] = {
   {1, 0, 1, 1, 0, 1, 1},  //5
 };
 
-
-
 void setup() {
   for (int i = 0; i < jml_lampu; i++) {
     pinMode(lampu[i], OUTPUT);
