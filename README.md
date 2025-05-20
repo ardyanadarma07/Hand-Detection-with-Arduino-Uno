@@ -1,4 +1,4 @@
-<img src="source/design-prototype.png" width="500" style ="margin: auto;">
+<img src="source/design-prototype.png" width="500">
 
 The image above is a hardware circuit used as the prototype for our project. The hardware components include an Arduino UNO microcontroller, five 5 mm LED lights, a seven segment display module, a breadboard, some 220 Ohm resistors, and some male-to-male jumper cables.   
 
